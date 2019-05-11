@@ -1,0 +1,35 @@
+body {
+    background-color: pink;  /*Need to find an image fot the background*/
+    background-size: contain;
+}
+
+.cookie-image {
+    width: 200px;
+    height: 200px;
+}
+
+#header {
+    background: white;
+    color: black;
+    font-family: cursive;
+}
+
+#directions-text {
+   font-family: cursive;
+   color: white;
+}
+
+#target-display {
+    font-family: cursive;
+    color: white;
+}
+
+#win-loss-display {
+    font-family: cursive;
+    color: white;
+}
+
+#score-display {
+    font-family: cursive;
+    color: white;
+}
